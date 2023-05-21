@@ -6,7 +6,7 @@
 [![DevServer](https://discordapp.com/api/guilds/644672989014523940/widget.png?style=shield)](https://discord.gg/FMbXwGPJGm)
 [![MyBot](https://badgen.net/badge/icon/MyBot/yellow?icon=dependabot&label)](https://dsc.gg/cuchus)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
+<p align="left"> <img src="https://github.com/@Noede" alt="mid-rip" /> </p>
 
 <div aling="right">
 <a href="https://discord.com/users/1101943724306595991" target="_blank">
@@ -21,8 +21,8 @@
 
 - 👨‍💻 &nbsp; I’m currently studying.
 - 💬 &nbsp; I Love dev `Discords  Bots` and `Websites`.
-- 🌱 &nbsp; I’m currently learning `TS`.
-- 🎈 My own Discord Bot: https://cuchus.xyz
+- 🌱 &nbsp; I’m currently learning `TS And JS`.
+- 🎈 My own Discord Bot: 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
