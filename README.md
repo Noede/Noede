@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://discordapp.com/channels/1109585610760519772/1109585611221909528/1109861936318918666">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://i.pinimg.com/564x/30/77/c9/3077c95bdbee5a3ebee3265c186bdd32.jpg">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=F7E50E&width=450&height=70&lines=Hey!+I'm+NoBody!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
 [![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/NoBody-UU)
