@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://images-ext-1.discordapp.net/external/KS3JwY0Nv97KAMXxWxqjnSY6eAU73im6HTo1Ow_BrbU/https/i.imgur.com/jlwmYiph.jpg">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="NoBody Image" src="https://discordapp.com/channels/1109585610760519772/1109585611221909528/1109861936318918666">  
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=41&pause=1000&color=F7E50E&width=450&height=70&lines=Hey!+I'm+NoBody!+;Welcome+To+My+GitHub)](https://git.io/typing-svg) 
 [![RataCalva](https://custom-icon-badges.demolab.com/badge/-RataCalva-yellow?style=for-the-badge&logo=heart&logoColor=red)](https://github.com/NoBody-UU)
@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NoBody-UU&label=Profile%20views&color=0e75b6&style=flat" alt="mid-rip" /> </p>
 
 <div aling="right">
-<a href="https://discord.com/users/838338447932391436" target="_blank">
+<a href="https://discord.com/users/1101943724306595991" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/838338447932391436?bg=1f1f1f&borderRadius=5px">
 </a>
 <a href="https://wakatime.com/@NoBody" target="_blank">
