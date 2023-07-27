@@ -5,7 +5,7 @@
     I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.gg/95TTcymCpk">Discord</a></strong>
 <br>
 <br>
-<a href="https://github.com/ZeroDiscord/">
+<a href="https://github.com/Noede/">
         <img src="https://komarev.com/ghpvc/?username=Noede&color=red" />
   </a> 
 <br>
