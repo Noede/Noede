@@ -16,15 +16,15 @@
 </p>
 &nbsp;
 <p align="center">
-    <a href="https://github.com/ZeroDiscord/">
+    <a href="https://github.com/Noede/">
         <img src="./assets/icons/other/github-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://discord.com/users/603948445362946084">
+    <a href="https://discord.com/users/1128014603876585584">
         <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/RestInPeaceZero/">
+    <a href="https://twitter.com/dogidiscord/">
         <img src="./assets/icons/other/twitter-solid.svg/" width="25px" />
     </a>
     &nbsp;
@@ -35,12 +35,12 @@
 </p>
 <hr/>
 <p align="center">
-    <a href="https://github.com/ZeroDiscord/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroDiscord&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    <a href="https://github.com/Noede/">
+        <img src="https://i.pinimg.com/236x/52/fa/f9/52faf9ba0786f8be9bab5fc83730e35e.jpg" />
   </a> 
 <br>
-  <a href="https://github.com/ZeroDiscord/">
-       <img src="https://github-readme-stats.vercel.app/api?username=ZeroDiscord&show_icons=true&theme=gruvbox" />
+  <a href="https://github.com/Noede/">
+       <img src="https://github-readme-stats.vercel.app/api?username=Noeded&show_icons=true&theme=gruvbox" />
   </a> 
 <br>
 <br>
