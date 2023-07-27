@@ -45,7 +45,7 @@
 <br>
 <br>
 <a href="https://github.com/Noede/">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDiscord&theme=gruvbox&langs_count=8&layout=compact" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noede&theme=gruvbox&langs_count=8&layout=compact" />
   </a> 
 </p>
 
